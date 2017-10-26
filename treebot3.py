@@ -29,81 +29,81 @@ c_text = """this is autolike """
 
 helpMessage ="""Ŧяәәƅoŧ v2.2 
 			 
-¤ [Id]
-¤ [Mid]
-¤ [Me]
-¤ [Tl "text"]
-¤ [Bye bye]: You left the group
-¤ [Cn "text"] 
-¤ [Gift] 
-¤ [Mc "mid"]: convert mid to contact
-¤ [Groups]
-¤ [Like:on/off]: Auto like Post Timeline
-¤ [album ]
-¤ [album merit "id"]
-¤ [album remove "id"]tact:on]
-¤ [Rgroups]: Reject spam invitation groups
-¤ [Auto add message "text"]
-¤ [Auto add message confirm]
-¤ [Clock:on/off]
-¤ [Clock  "text"︎]
-¤ [Update]: Update clock
-¤ [Update status]: Update your profile status message
-¤ [Comment confirm]
-¤ [Comment "text"]
-¤ [Comment bl add]
-¤ [Comment bl del]
-¤ [Comment bl confirm]
-¤ [Ban]
-¤ [Set]: Show your Auto setting
-¤ [Unban]
-¤ [Banlist]
-¤ [Check banlist]
-¤ [Check mbl]
-¤ [Ginfo]
-¤ [Groups]
-¤ [Cancel]
-¤ [Clean]
-¤ [Tagall] Mention All User
-¤ [Invite [mid]]Invite by mid people
-¤ [Gn "the group name"]
-¤ [Gurl]
-¤ [gurl merit"the group ID"]
-¤ [Nk "the name/tag"]
-¤ [Kick: "mid"]
-¤ [Fuck "Tag"]
-¤ [Kill]
-¤ [Url open]
-¤ [Url close]
-_________________________________________________________
+¤ Id
+¤ Mid
+¤ Me
+¤ Tl "text"
+¤ Bye bye = You left the group
+¤ Cn "text" 
+¤ Gift 
+¤ Mc "mid"  [convert mid to contact]
+¤ Groups
+¤ Like:on/off  [Auto like Post Timeline]
+¤ album 
+¤ album merit "id"
+¤ album remove "id" [tact:on]
+¤ Rgroups [Reject spam invitation groups]
+¤ Auto add message "text"
+¤ Auto add message confirm
+¤ Clock:on/off
+¤ Clock  "text"︎
+¤ Update  [Update clock]
+¤ Update status [Update your profile status message]
+¤ Comment confirm
+¤ Comment "text"
+¤ Comment bl add
+¤ Comment bl del
+¤ Comment bl confirm
+¤ Ban
+¤ Set [Show your Auto setting]
+¤ Unban
+¤ Banlist
+¤ Check banlist
+¤ Check mbl
+¤ Ginfo
+¤ Groups
+¤ Cancel
+¤ Clean
+¤ Tagall [Mention All User]
+¤ Invite [mid] [Invite by mid people]
+¤ Gn "the group name"
+¤ Gurl
+¤ gurl merit"the group ID"
+¤ Nk "the name/tag"
+¤ Kick: "mid"
+¤ Fuck "Tag"
+¤ Kill
+¤ Url open
+¤ Url close
+
   ¤¤ Command for kicker ¤¤
   
-¤ [Kicker]: All kicker join
-¤ [K1 gift]: K1,k2,k3 if you have much kicker
-¤ [K1/K2/K3 join]: Kicker join one by one
-¤ [K1 rename: "text"]
-¤ [Bye]: All kicker Leave
-¤ [K1/K2K3 @bye]: Kicker leave one by one
-¤ [K1/K2/K3 fuck "Tag"]: K1/K2 kick people
-¤ [K1 invite [mid]]: Kicker invite by mid people
-¤ [K1 gn "the group name"]: K1/K2
-¤ [K1 upstatus]: Kicker update profile status message
-¤ [K1/K2/K3 rgroups]: Kicker reject spam invitation groups
-_________________________________________________________
+¤ Kicker  [All kicker join]
+¤ K1 gift [K1,k2,k3 if you have much kicker]
+¤ K1/K2/K3 join [Kicker join one by one]
+¤ K1 rename: "text"
+¤ Bye  [All kicker Leave]
+¤ K1/K2K3 @bye [Kicker leave one by one]
+¤ K1/K2/K3 fuck "Tag" [K1/K2 kick people]
+¤ K1 invite [mid]] [Kicker invite by mid people]
+¤ K1 gn "the group name" [K1/K2/K3/K4}
+¤ K1 upstatus [Kicker update profile status message]
+¤ K1/K2/K3 rgroups [Kicker reject spam invitation groups]
+
   ¤¤ Auto Setting Command ¤¤
   
-¤ [Contact:on/off]
-¤ [Auto add:on/off]
-¤ [Share:on/off]
-¤ [Comment:on/off]
-¤ [Auto join:on/off]
-_________________________________________________________
+¤ Contact:on/off
+¤ Auto add:on/off
+¤ Share:on/off
+¤ Comment:on/off
+¤ Auto join:on/off
+
   ¤¤ Protection ¤¤
   
-¤ [Protect:on/off]
-¤ [Namelock:on/off]
-¤ [Pro url:on/off]
-¤ [Blockinvite:on/off]
+¤ Protect:on/off
+¤ Namelock:on/off
+¤ Pro url:on/off
+¤ Blockinvite:on/off
 
 """
 KAC = [cl,ki,kk,ks]
