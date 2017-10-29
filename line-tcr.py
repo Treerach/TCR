@@ -25,28 +25,28 @@ helpMessage ="""Ŧяәәƅoŧ v2.2
 ¤ Mid
 ¤ Me
 ¤ Tl "text"
-¤ Bye bye = You left the group
+¤ Bye bye 
 ¤ Cn "text" 
 ¤ Gift 
-¤ Mc "mid"  [convert mid to contact]
+¤ Mc "mid"
 ¤ Groups
-¤ Like:on/off  [Auto like Post Timeline]
+¤ Like:on/off
 ¤ album 
 ¤ album merit "id"
-¤ album remove "id" [tact:on]
-¤ Rgroups [Reject spam invitation groups]
+¤ album remove "id"
+¤ Rgroups 
 ¤ Auto add message "text"
 ¤ Auto add message confirm
 ¤ Clock:on/off
 ¤ Clock  "text"︎
-¤ Update  [Update clock]
-¤ Update status [Update your profile status message]
+¤ Update  
+¤ Update status 
 ¤ Comment confirm
 ¤ Comment "text"
 ¤ Comment bl add
 ¤ Comment bl del
 ¤ Comment bl confirm
-¤ Set [Show your Auto setting]
+¤ Set
 ¤ Ban
 ¤ Unban
 ¤ Banlist
@@ -57,8 +57,8 @@ helpMessage ="""Ŧяәәƅoŧ v2.2
 ¤ Cancel
 ¤ Clean
 ¤ Speedbot
-¤ Tagall [Mention All User]
-¤ Invite [mid] [Invite by mid people]
+¤ Tagall 
+¤ Invite [mid] 
 ¤ Gn "the group name"
 ¤ Gurl
 ¤ gurl merit"the group ID"
@@ -118,13 +118,13 @@ autocancel = {}
 autoinvite = []
 autoleaveroom = []
 
-#admins = ["u9489706a45fcf78bea076c6b77f7067d","ucd886b532f581aa4de98af5898719392","uac09b334047623bd3b38a544e55401ed","u1be68271e244853d7f59ac795bc0af99"]
-#Rx3 = ["u1be68271e244853d7f59ac795bc0af99"]
-#Rx2 = ["uac09b334047623bd3b38a544e55401ed"]
-#Rx1 = ["ucd886b532f581aa4de98af5898719392"]
-#Administrator = admins + Rx3 + Rx2 + Rx1
-#AS = Rx2 + Rx1 + Rx3
-#adminsA = admins + Rx3
+admins = ["u9489706a45fcf78bea076c6b77f7067d","ucd886b532f581aa4de98af5898719392","uac09b334047623bd3b38a544e55401ed","u1be68271e244853d7f59ac795bc0af99"]
+Rx3 = ["u1be68271e244853d7f59ac795bc0af99"]
+Rx2 = ["uac09b334047623bd3b38a544e55401ed"]
+Rx1 = ["ucd886b532f581aa4de98af5898719392"]
+Administrator = admins + Rx3 + Rx2 + Rx1
+AS = Rx2 + Rx1 + Rx3
+adminsA = admins + Rx3
 
 #omikuzi = ["大吉","中吉","小吉","末吉","大凶","凶"]
 
